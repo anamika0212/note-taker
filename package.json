@@ -1,0 +1,24 @@
+{
+  "name": "note-taker",
+  "version": "1.0.0",
+  "description": "note taking app",
+  "main": "server.js",
+  "scripts": {
+    "test": "test",
+    "start": "node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/anamika0212/note-taker.git"
+  },
+  "author": "anamika",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/anamika0212/note-taker/issues"
+  },
+  "homepage": "https://github.com/anamika0212/note-taker#readme",
+  "dependencies": {
+    "express": "^4.17.1",
+    "inquirer": "^8.1.2"
+  }
+}
