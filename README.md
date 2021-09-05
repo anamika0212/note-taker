@@ -22,7 +22,8 @@ I WANT to be able to delete notes I've written before.
 SO THAT I can organize my thoughts and keep track of tasks I need to complete
 
 # Demo :
-![Note Taker](https://youtu.be/8AVMrdZ61vM)
+[![Note-taker](https://img.youtube.com/vi/8AVMrdZ61vM/0.jpg)](https://www.youtube.com/watch?v=8AVMrdZ61vM)
+
 
 ## Application Preview
 
