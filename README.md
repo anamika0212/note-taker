@@ -15,8 +15,6 @@ This is a simple Note Taker application that allows users to add, view saved not
 
 
 # User Story
-
-```
 AS A user, I want to be able to write and save notes.
 
 I WANT to be able to delete notes I've written before.
@@ -26,32 +24,18 @@ SO THAT I can organize my thoughts and keep track of tasks I need to complete
 # Demo :
 ![Note Taker](https://youtu.be/8AVMrdZ61vM)
 
-# Application Preview
+## Application Preview
 
 |Main Page|Saved Notes|Delete Note
 |--|--|--
 |![Main Page](public/assets/images/NoteTaker.png)|![Saved Notes](public/assets/images/SavedNotes.png)|![Delete Note](public/assets/images/DeleteNote.png)
 
 
-# Technology :
+## Technology :
 
-**1. [Express.js](https://expressjs.com/)** :
-
-* Web Applications : Express is a minimal and flexible Node.js web application framework that provides a robust set of features for web and mobile applications.
-
-* APIs : With a myriad of HTTP utility methods and middleware, creating a robust API is quick and easy.
-
-* Performance : Express provides a thin layer of fundamental web application features, without obscuring Node.js features.
-
-**2. [Node.js](https://nodejs.org/en/)** : 
-
-* Node.js is an open-source and cross-platform JavaScript runtime environment. 
-
-* A Node.js app is run in a single process, without creating a new thread for every request. 
-
-* Node.js provides a set of asynchronous I/O primitives in its standard library that prevent JavaScript code from blocking.
-
-**3. [uuid](https://www.npmjs.com/package/uuid)** : Creates random unique id's.
+* 1. [Express.js](https://expressjs.com/)
+* 2. [Node.js](https://nodejs.org/en/)
+* 3. [uuid](https://www.npmjs.com/package/uuid): Creates random unique id's.
 
 
 # Features :
